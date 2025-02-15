@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5891cdd1d0616a37",
+        "id": "7accbe5d7a005ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "ae15383044020962",
+            "id": "6edefb4105118fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开题报告怎么写.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "开题报告怎么写"
+              "title": "新标签页"
             }
           }
         ]
@@ -177,16 +173,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae15383044020962",
+  "active": "6edefb4105118fc4",
   "lastOpenFiles": [
-    "15834-2011-gbt-e-300.pdf",
     "文献、专利与标准.md",
+    "README.md",
+    "数量蒙题的一点笔记.md",
     "开题报告怎么写.md",
+    "15834-2011-gbt-e-300.pdf",
     "std.samr.gov.vn.md",
     "legal.hikvision.com.cn/home.md",
     "legal.hikvision.com.cn",
     "读《检索力：打破信息差的科学方法》笔记整理.md",
-    "README.md",
     "web24年12月.md",
     "web24年12月.pdf"
   ]
