@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7accbe5d7a005ca2",
+        "id": "cff8c95292da39b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6edefb4105118fc4",
+            "id": "831bf73e991d58a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,8 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6edefb4105118fc4",
+  "active": "831bf73e991d58a6",
   "lastOpenFiles": [
+    "公文常识.md",
+    "img/公文格式.webp",
+    "img",
     "文献、专利与标准.md",
     "README.md",
     "数量蒙题的一点笔记.md",
