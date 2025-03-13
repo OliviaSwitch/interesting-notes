@@ -1,0 +1,94 @@
+/*  当前行相邻的元素，多是空行 */
+.cm-line:has(+.cm-active) {
+    opacity: 0.8;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line {
+    opacity: 0.8;
+    transition: all 1s;
+}
+
+/* 当前行相隔一行的元素，多是内容块 */
+.cm-line:has(+.cm-line +.cm-active) {
+    opacity: 0.6;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line +.cm-line {
+    opacity: 0.6;
+    transition: all 1s;
+}
+
+/* 当前行相隔两行的元素，多是空行 */
+.cm-line:has(+.cm-line +.cm-line +.cm-active) {
+    opacity: 0.4;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line +.cm-line +.cm-line {
+    opacity: 0.4;
+    transition: all 1s;
+}
+
+/* 当前行相隔三行的元素，多是内容块 */
+.cm-line:has(+.cm-line +.cm-line +.cm-line +.cm-active) {
+    opacity: 0.2;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line +.cm-line +.cm-line +.cm-line {
+    opacity: 0.2;
+    transition: all 1s;
+}
+
+/* 当前行相隔四行的元素，多是空行 */
+.cm-line:has(+.cm-line +.cm-line +.cm-line +.cm-line +.cm-active) {
+    opacity: 0.1;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line +.cm-line +.cm-line +.cm-line +.cm-line {
+    opacity: 0.1;
+    transition: all 1s;
+}
+
+/* 不再聚焦的元素 */
+.cm-line:has(~.cm-line +.cm-line +.cm-line +.cm-line +.cm-line +.cm-active) {
+    opacity: 0.05;
+    transition: all 1s;
+}
+
+.cm-active +.cm-line +.cm-line +.cm-line +.cm-line +.cm-line ~.cm-line {
+    opacity: 0.05;
+    transition: all 1s;
+}
+
+/* 当前行 */
+.cm-active .cm-line {
+    opacity: 1;
+    transition: all 1s;
+}
+
+/* 处理图片 */
+/*  当前行相邻的元素，多是空行 */
+.focus-active-sentence img:has(+.cm-active) {
+    opacity: 0.6;
+    transition: all 1s;
+}
+  
+.focus-active-sentence .cm-active +img {
+    opacity: 0.6;
+    transition: all 1s;
+}
+
+/* 退出聚焦模式 */
+.cm-line {
+    opacity: 1;
+    transition: all 1s !important;
+  }
+  
+  img {
+    opacity: 1;
+    transition: all 1s !important;
+  }
