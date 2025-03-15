@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "318113b7fa62bb0d",
+        "id": "5f26b82fe8fb675f",
         "type": "tabs",
         "children": [
           {
-            "id": "e97d705768ee4e6c",
+            "id": "d00bf5c7b2dfa789",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读《检索力：打破信息差的科学方法》笔记整理.md",
+                "file": "论证逻辑（削弱加强）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "读《检索力：打破信息差的科学方法》笔记整理 的反向链接列表"
+              "title": "论证逻辑（削弱加强） 的反向链接列表"
             }
           },
           {
@@ -109,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读《检索力：打破信息差的科学方法》笔记整理.md",
+                "file": "论证逻辑（削弱加强）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "读《检索力：打破信息差的科学方法》笔记整理 的出链列表"
+              "title": "论证逻辑（削弱加强） 的出链列表"
             }
           },
           {
@@ -174,22 +174,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e97d705768ee4e6c",
+  "active": "d00bf5c7b2dfa789",
   "lastOpenFiles": [
-    "数字推理.md",
-    "文献、专利与标准.md",
+    "论证逻辑（削弱加强）.md",
+    "类比推理.md",
+    "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派.md",
     "数量蒙题的一点笔记.md",
-    "公文常识.md",
-    "img/公文格式.webp",
-    "img",
-    "README.md",
-    "开题报告怎么写.md",
-    "15834-2011-gbt-e-300.pdf",
-    "std.samr.gov.vn.md",
-    "legal.hikvision.com.cn/home.md",
-    "legal.hikvision.com.cn",
-    "读《检索力：打破信息差的科学方法》笔记整理.md",
-    "web24年12月.md",
-    "web24年12月.pdf"
+    "数字推理.md",
+    "图形推理之六面体.md",
+    "文献、专利与标准.md",
+    "开题报告怎么写.md"
   ]
 }
