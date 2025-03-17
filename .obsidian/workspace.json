@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f26b82fe8fb675f",
+        "id": "181297bb11d0155e",
         "type": "tabs",
         "children": [
           {
-            "id": "d00bf5c7b2dfa789",
+            "id": "7d91e36e14cb7be8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "形式逻辑.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "形式逻辑"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论证逻辑（削弱加强）.md",
+                "file": "形式逻辑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "论证逻辑（削弱加强） 的反向链接列表"
+              "title": "形式逻辑 的反向链接列表"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论证逻辑（削弱加强）.md",
+                "file": "形式逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "论证逻辑（削弱加强） 的出链列表"
+              "title": "形式逻辑 的出链列表"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "形式逻辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "形式逻辑 的大纲"
             }
           },
           {
@@ -174,15 +179,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d00bf5c7b2dfa789",
+  "active": "7d91e36e14cb7be8",
   "lastOpenFiles": [
-    "论证逻辑（削弱加强）.md",
-    "类比推理.md",
-    "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派.md",
-    "数量蒙题的一点笔记.md",
-    "数字推理.md",
+    "img/集合推理文氏图.svg.crswap",
+    "img/集合推理文氏图.svg",
     "图形推理之六面体.md",
+    "数字推理.md",
+    "开题报告怎么写.md",
+    "论证逻辑（削弱加强）.md",
+    "img/论证四结构.jpg",
+    "形式逻辑.md",
+    "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派.md",
+    "类比推理.md",
+    "img/Sidekick-beta.0.0.22.2025-03-13.dmg",
+    "img/未确认 59700.crdownload",
+    "数量蒙题的一点笔记.md",
     "文献、专利与标准.md",
-    "开题报告怎么写.md"
+    "README.md",
+    "公文常识.md",
+    "未命名.canvas",
+    "img/针对结论.svg",
+    "img/markmap.svg",
+    "image-1741861090453.jpeg",
+    "image-1741861090453.png",
+    "test",
+    "test.md",
+    "类比推理",
+    "img/mzr.png",
+    "（平面）图形推理观察方法.md",
+    "15834-2011-gbt-e-300.pdf",
+    "img/数字推理map.png",
+    "img/markmap.png",
+    "读《检索力：打破信息差的科学方法》笔记整理.md",
+    "markmap.html",
+    "mindmap.jpeg",
+    "img",
+    "std.samr.gov.vn.md",
+    "legal.hikvision.com.cn/home.md",
+    "legal.hikvision.com.cn",
+    "web24年12月.md",
+    "web24年12月.pdf"
   ]
 }
