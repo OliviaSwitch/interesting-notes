@@ -1,5 +1,9 @@
-https://sspai.com/post/97131
-
+---
+tags:
+  - "#obsidian插件"
+  - 剪藏
+connect-url: https://sspai.com/post/97131
+---
 2024 年是我做 PPT 最多的一年。
 
 这一年里面我开了不知道多少次各种会议，做了无数次汇报。这些要求的汇报不仅强行撼动了我的社恐本性，还给我带来了一大堆需要做的 PPT。在和 PowerPoint 无奈共事一年后，我产生了一个思考：有没有比直接在 PowerPoint 中手搓 PPT 更高效的 PPT 制作方法呢？
