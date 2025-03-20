@@ -1,7 +1,7 @@
 ---
 tags:
   - "#obsidian插件"
-  - 剪藏
+  - "#剪藏"
 connect-url: https://sspai.com/post/97131
 ---
 2024 年是我做 PPT 最多的一年。

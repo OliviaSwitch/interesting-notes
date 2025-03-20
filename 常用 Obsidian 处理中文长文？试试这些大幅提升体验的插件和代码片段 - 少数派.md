@@ -1,7 +1,7 @@
 ---
 tags:
-  - obsidian插件
-  - 剪藏
+  - "#obsidian插件"
+  - "#剪藏"
 connect-url: https://sspai.com/post/69628
 ---
 如果你经常需要在 Obsidian 中处理文字，尤其是进行中文输入时，也许会遇到这些难处：
